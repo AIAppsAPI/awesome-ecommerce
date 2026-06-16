@@ -131,6 +131,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [ZipBooks](https://zipbooks.com/) - Free cloud accounting with invoicing and time tracking.
 - [SBA Lender Match](https://www.sba.gov/funding-programs/loans/lender-match) - Free government tool to match small businesses with lenders.
 - [Grants.gov](https://www.grants.gov/) - Search and apply for federal business grants.
+- [Ecommerce Profit Tracker PRO](https://limin6661.github.io/ecommerce-profit-tracker/) - Track real net profit per order after platform fees, payment processing, ads, shipping and returns. Excel/Google Sheets template for Shopify, Etsy, Amazon & eBay sellers.
 
 ### Guides
 
