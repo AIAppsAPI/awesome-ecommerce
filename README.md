@@ -82,6 +82,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free keyword research and search volume data for ad campaigns.
 - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Free backlink and SEO health monitoring for sites you own.
 - [Google Trends](https://trends.google.com/) - Free trend analysis for product research and content planning.
+- [FirstClick Homepage Headline Generator](https://elyasibkr.github.io/firstclick-headline-generator/) - Free, open-source browser tool for drafting store homepage headlines, a supporting line, and a call to action without a login.
 
 ### Guides
 
