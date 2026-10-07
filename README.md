@@ -83,6 +83,8 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Free backlink and SEO health monitoring for sites you own.
 - [Google Trends](https://trends.google.com/) - Free trend analysis for product research and content planning.
 
+- [KopFollowers.se Engagement Calculator](https://kopfollowers.se/tools/engagement-rate) - Free Swedish calculator for likes-plus-comments engagement ratios with followers, reach or views as the denominator.
+
 ### Guides
 
 - [SEO for Online Business](https://www.afcommerce.com/seo/) - Technical SEO, content strategy, and link building for ecommerce sites.
