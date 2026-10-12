@@ -131,6 +131,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [ZipBooks](https://zipbooks.com/) - Free cloud accounting with invoicing and time tracking.
 - [SBA Lender Match](https://www.sba.gov/funding-programs/loans/lender-match) - Free government tool to match small businesses with lenders.
 - [Grants.gov](https://www.grants.gov/) - Search and apply for federal business grants.
+- [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) - Free, no-signup CNY calculator for one pop-up or market event's operating surplus; no tax or currency conversion.
 
 ### Guides
 
