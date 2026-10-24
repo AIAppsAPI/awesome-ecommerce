@@ -106,6 +106,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [Tidio](https://www.tidio.com/) - Free live chat and chatbot for ecommerce customer service.
 - [Freshdesk](https://freshdesk.com/) - Customer support helpdesk with a free plan for up to 10 agents.
 - [Hotjar](https://www.hotjar.com/) - Free heatmaps and session recordings to understand customer behavior.
+- [Label Printer Atlas Size Checker](https://labelprinteratlas.com/en/tools/label-size-check/) - Free tool comparing entered document dimensions with shipping-label formats; no file upload. Affiliate-supported site.
 
 ### Guides
 
