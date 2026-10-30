@@ -53,6 +53,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [Gumroad](https://gumroad.com/) - Sell digital products directly to your audience. Free to start.
 - [Payhip](https://payhip.com/) - Sell digital downloads, courses, and memberships with a free plan.
 - [Google Merchant Center](https://merchants.google.com/) - Free product listings in Google Shopping search results.
+- [Pangolinfo Amazon Data MCP](https://www.pangolinfo.com/amazon-data-mcp/) - Amazon product, search, review, and seller research through MCP; 60 free monthly credits, no card required.
 
 ### Guides
 
