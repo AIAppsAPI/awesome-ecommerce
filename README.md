@@ -40,6 +40,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [WooCommerce: Setup and Optimization](https://www.afcommerce.com/woocommerce/) - Installation, plugins, performance tuning, and scaling your WooCommerce store.
 - [Ecommerce Website Design](https://www.afcommerce.com/store-design/) - Design principles, UX best practices, and conversion optimization for online stores.
 - [Website Hosting for Online Stores](https://www.afcommerce.com/website-hosting/) - Hosting options compared for speed, security, and ecommerce workloads.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 ## Selling Online
 
