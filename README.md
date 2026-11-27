@@ -82,6 +82,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - Free keyword research and search volume data for ad campaigns.
 - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - Free backlink and SEO health monitoring for sites you own.
 - [Google Trends](https://trends.google.com/) - Free trend analysis for product research and content planning.
+- [Poptin MCP](https://developers.poptin.com/docs/mcp) - Hosted connector for drafting store email campaigns and reviewing popup performance, with available actions depending on the account plan.
 
 ### Guides
 
