@@ -106,6 +106,7 @@ Guides are provided by [AFCommerce](https://www.afcommerce.com/), which has been
 - [Tidio](https://www.tidio.com/) - Free live chat and chatbot for ecommerce customer service.
 - [Freshdesk](https://freshdesk.com/) - Customer support helpdesk with a free plan for up to 10 agents.
 - [Hotjar](https://www.hotjar.com/) - Free heatmaps and session recordings to understand customer behavior.
+- [Shopify CSV Import Approval Sheet](https://catalogguard.pages.dev/shopify-csv-import-approval) - Free editable worksheet and printable PDF for documenting changes, review evidence, and approval before a native Shopify product CSV import.
 
 ### Guides
 
